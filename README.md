@@ -1,6 +1,12 @@
 # info-valorant
 Used Valorant un-official api
 
+## TECH
+-** Jetpack Compose
+-** Retrofit
+-** Coil
+
+
 
 
 <h1>Main Img</h1>
