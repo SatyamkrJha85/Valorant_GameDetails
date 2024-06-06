@@ -2,9 +2,13 @@
 Used Valorant un-official api
 
 
+
+<h1>Main Img</h1>
+
+<img src="screenshots/mainimg.jpg.png" width="50%"> </img>
+
 <h1>Agents</h1>
 
-<img src="screenshots/agents_screen.png" width="25%"> </img>
 <img src="screenshots/agent_detail.png" width="25%"> </img>
 
 
