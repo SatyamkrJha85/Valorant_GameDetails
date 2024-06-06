@@ -2,9 +2,9 @@
 Used Valorant un-official api
 
 ## TECH
--** Jetpack Compose
--** Retrofit
--** Coil
+- **Jetpack Compose
+- **Retrofit
+- **Coil
 
 
 
