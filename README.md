@@ -1,7 +1,7 @@
 # info-valorant
-Used Valorant un-official api
+Used Valorant un-official apis
 
-## TECH
+## TECH  
 - **Jetpack Compose**
 - **Retrofit**
 - **Coil**
